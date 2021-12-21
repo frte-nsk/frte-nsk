@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<p align="right">
+<a href="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=frte-nsk&color=6A54DF&style=flat&logo=Github&text=views">
+  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=frte-nsk&color=6A54DF&style=flat&logo=Github&text=views"/>
+</a>
+</p>
 <!--
 **frte-nsk/frte-nsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
